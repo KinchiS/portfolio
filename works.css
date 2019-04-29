@@ -1,0 +1,70 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+
+h1{
+  float:left;
+  font-size:35px
+}
+.heading{
+  width:100%;
+  background-color:rgba(255,255,255,0.9);
+  height:80px;
+  position:fixed;
+  top:0px;
+}
+.heading-container{
+    padding:20px 60px;
+}
+
+.heading-link{
+  float:right;
+  padding-top:10px;
+
+}
+.heading-link a{
+  color:black;
+  float:left;
+  padding-left:40px;
+  list-style:none;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+}
+.main{
+  background-image: url(./works.jpg);
+  background-size: cover;
+  text-align:center;
+}
+.main-container{
+  width:1000px;
+  color:white;
+  padding-top:200px;
+  padding-bottom:200px;
+  margin: 0 auto;
+
+}
+.t_eff{
+    color: #fff;
+    font-size: 100px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 10px 0 0;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+h2{
+  font-size: 50px;
+}
+.CG{
+  padding-top: 100px;
+  width:50%;
+}
+.contents p{
+  padding-top: 10px;
+  font-size: 20px;
+}

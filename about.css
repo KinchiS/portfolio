@@ -38,7 +38,7 @@ a{
   text-decoration: none;
 }
 .main{
-  background-image: url(../img_folder/hobby.jpg);
+  background-image: url(./hobby.jpg);
   background-size: cover;
   text-align:center;
 }
